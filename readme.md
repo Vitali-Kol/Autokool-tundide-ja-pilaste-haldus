@@ -25,12 +25,12 @@ See rakendus on loodud autokooli igapäevaste protsesside automatiseerimiseks. S
 2.  **Sõidutundide broneerimine:** Õpilane saab valida vaba aja õpetaja graafikus ja selle broneerida.
 3.  **Õpingute jälgimine:** Kuvatakse läbitud sõidutundide arv ja sooritatud kontrolltööd.
 4.  **Profiili muutmine:** Võimalus muuta kontaktandmeid ja parooli.
-5.  **Teavitused:** Push-teavitused lähenevate sõidutundide või tunniplaani muudatuste kohta.
+5.  **Teavitused:** teavitused lähenevate sõidutundide või tunniplaani muudatuste kohta.
 
 ### Mittefunktsionaalsed nõuded:
 1.  **Turvalisus:** Kasutajaandmete krüpteerimine ja turvaline sisselogimine.
-2.  **Jõudlus:** Rakenduse liides peab reageerima viivitusteta (vastuseaeg alla 2 sekundi).
-3.  **Ühilduvus:** Toetatud on seadmed alates Android 8.0 versioonist.
+2.  **Jõudlus:** Rakenduse liides peab reageerima viivitusteta 
+3.  **Ühilduvus:** Toetatud kõigi tänapäevaste nutitelefonide poolt
 
 ## UML Kasutusjuhtude diagramm (Use Case Diagram)
 <img width="809" height="672" alt="image" src="https://github.com/user-attachments/assets/739ad140-32e0-4bc4-b5ff-e052154f313d" />
